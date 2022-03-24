@@ -1,0 +1,15 @@
+D:\Baltaio\Calculator\bin\Debug\net6.0\Calculator.exe
+D:\Baltaio\Calculator\bin\Debug\net6.0\Calculator.deps.json
+D:\Baltaio\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+D:\Baltaio\Calculator\bin\Debug\net6.0\Calculator.dll
+D:\Baltaio\Calculator\bin\Debug\net6.0\ref\Calculator.dll
+D:\Baltaio\Calculator\bin\Debug\net6.0\Calculator.pdb
+D:\Baltaio\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+D:\Baltaio\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Baltaio\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\Baltaio\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\Baltaio\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Baltaio\Calculator\obj\Debug\net6.0\Calculator.dll
+D:\Baltaio\Calculator\obj\Debug\net6.0\ref\Calculator.dll
+D:\Baltaio\Calculator\obj\Debug\net6.0\Calculator.pdb
+D:\Baltaio\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
