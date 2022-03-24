@@ -10,6 +10,7 @@ static void Menu()
     Console.WriteLine("1 - Subtração");
     Console.WriteLine("2 - Multiplicação");
     Console.WriteLine("3 - Divisão");
+    Console.WriteLine("4 - Raiz Sair");
     Console.WriteLine("_________________________________________");
     Console.WriteLine("Digite o numero correspondente a opção desejada:");
 }
@@ -30,6 +31,9 @@ switch (resultado)
         break;
     case 3:
         Divisao();
+        break;
+    case 4:
+        System.Environment.Exit(0);
         break;
     default:
         Menu();
