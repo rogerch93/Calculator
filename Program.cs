@@ -10,7 +10,7 @@ static void Menu()
     Console.WriteLine("1 - Subtração");
     Console.WriteLine("2 - Multiplicação");
     Console.WriteLine("3 - Divisão");
-    Console.WriteLine("4 - Raiz Sair");
+    Console.WriteLine("4 - Sair");
     Console.WriteLine("_________________________________________");
     Console.WriteLine("Digite o numero correspondente a opção desejada:");
 }
