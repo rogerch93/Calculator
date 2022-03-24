@@ -13,32 +13,34 @@ static void Menu()
     Console.WriteLine("4 - Sair");
     Console.WriteLine("_________________________________________");
     Console.WriteLine("Digite o numero correspondente a opção desejada:");
+
+    short resultado =  short.Parse(Console.ReadLine());
+
+
+    switch (resultado)
+    {
+        case 0:
+            Soma();
+            break;
+        case 1:
+            Subtracao();
+            break;
+        case 2:
+            Multiplicacao();
+            break;
+        case 3:
+            Divisao();
+            break;
+        case 4:
+            System.Environment.Exit(0);
+            break;
+        default:
+            Menu();
+            break;
+    }
 }
 
-short resultado =  short.Parse(Console.ReadLine());
 
-
-switch (resultado)
-{
-    case 0:
-        Soma();
-        break;
-    case 1:
-        Subtracao();
-        break;
-    case 2:
-        Multiplicacao();
-        break;
-    case 3:
-        Divisao();
-        break;
-    case 4:
-        System.Environment.Exit(0);
-        break;
-    default:
-        Menu();
-        break;
-}
 
 
 static void Soma()
